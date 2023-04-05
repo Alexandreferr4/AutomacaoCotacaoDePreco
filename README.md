@@ -1,5 +1,4 @@
-             # Automação web
-           # Cotação de preços
+## Automação web: Cotação de preços
 
 - Passo 1: O código ira requisitar a abertuda do navegador usando o "selenium";
 
